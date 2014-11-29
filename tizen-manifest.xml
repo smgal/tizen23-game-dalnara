@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.avej.game.tizen-dalnara" version="1.0.0">
+    <profile name="mobile"/>
+    <ui-application appid="com.avej.game.tizen-dalnara" exec="tizen-dalnara" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>Dalnara</label>
+        <label xml:lang="ko-kr">달나라</label>
+        <label xml:lang="ja-jp">月世界</label>
+        <icon>tizen-dalnara.png</icon>
+    </ui-application>
+</manifest>
